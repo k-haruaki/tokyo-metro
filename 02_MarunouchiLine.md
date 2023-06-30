@@ -10,7 +10,7 @@ gitGraph
         commit id: "方南町" tag: "Md03"
         commit id: "中野富士見町" tag: "Md04"
         commit id: "中野新橋" tag: "Md05"
-    checkout '丸ノ内線'
+    checkout "丸ノ内線"
     commit id: "中野坂上" tag: "M06"
     commit id: "西新宿" tag: "M07"
     commit id: "新宿" tag: "M08"
