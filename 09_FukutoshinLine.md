@@ -1,5 +1,5 @@
 ```mermaid
-%%{ init: { 'themeVariables': { 'git0': '#ff9500' },'gitGraph':{'mainBranchName': '銀座線'} } }%%
+%%{ init: { 'themeVariables': { 'git0': '#bb641d' },'gitGraph':{'mainBranchName': '副都心線'} } }%%
 gitGraph
     commit id: "澁谷" tag: "G01"
     commit id: "表参道" tag: "G02"
