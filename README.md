@@ -17,6 +17,7 @@ Mermaid の Gitgraph Diagram を使って、東京メトロの路線図を記載
 
 # 参考
 
+- [解説記事](https://zenn.dev/k_haruaki/articles/08e0523fa724b2)
 - [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - [Mermaid.js](https://mermaid.js.org/)
 - [東京メトロ](https://www.tokyometro.jp/)
