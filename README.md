@@ -14,5 +14,6 @@ MermaidのGitgraph Diagramを使って、東京メトロの路線図を記載し
 - 副都心線
 
 # 参考
+- [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
 - [Mermaid.js](https://mermaid.js.org/)
 - [東京メトロ](https://www.tokyometro.jp/)
